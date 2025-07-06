@@ -24,8 +24,8 @@
   - привести к неочевидным ошибкам в работе почтовых сервисов.
 
 ### 🖼️ Скриншоты:
-![Авторизация с Testcase@mail.ru](../images/registration_bug_example1.png)
-![Авторизация с Testcase@mail.ru](../images/registration_bug_example2.png)
+[Авторизация с Testuser@mail.ru]
+https://imgur.com/a/wa7oanC
 ---
 
 ### 📦 Среда
