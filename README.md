@@ -8,3 +8,6 @@
   - [Регистрация с Email в разном регистре](./bugs/email_case_sensitive_bug.md)
   - [Положительный сценарий: Успешная регистрация нового пользователя](./bugs/positive_registration.md)
   - [Негативный кейс: Проверка XSS-уязвимости на странице Customer Feedback](./bugs/xss_negative_case.md)
+  - [Позитивный кейс: Авторизация через API (POST /rest/user/login)](./bugs/api_login_testcase_positive.md)
+  - [Негативный кейс: Ошибка авторизации при вводе неверного пароля (POST /rest/user/login)](./bugs/api_login_testcase_negative.md)
+  - [Баг-репорт: Ошибка 500 при добавлении несуществующего товара в корзину (POST /api/BasketItems)](./bugs/Basket_item_500_Bug_Report.md)
