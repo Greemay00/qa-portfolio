@@ -11,3 +11,4 @@
   - [Позитивный кейс: Авторизация через API (POST /rest/user/login)](./bugs/api_login_testcase_positive.md)
   - [Негативный кейс: Ошибка авторизации при вводе неверного пароля (POST /rest/user/login)](./bugs/api_login_testcase_negative.md)
   - [Баг-репорт: Ошибка 500 при добавлении несуществующего товара в корзину (POST /api/BasketItems)](./bugs/Basket_item_500_Bug_Report.md)
+  - [Положительный сценарий: Проверка корректной работы функционала смены пароля в личном кабинете пользователя и валидации сохранённой сессии.](./bugs/psw_change_testcase.md)
